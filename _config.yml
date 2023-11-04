@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - jekyll-admin
 # Build settings
 markdown: kramdown
 remote_theme: ItsPatrq/minimal-music-project
